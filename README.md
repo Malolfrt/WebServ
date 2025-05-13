@@ -1,5 +1,7 @@
 # 🌐 Webserv - Projet 42
 
+Projet de groupe, réalisé avec [Valentin Mondor](https://github.com/vmondor)
+
 ## 📌 Description
 
 **Webserv** est un projet système avancé de l'école 42 consistant à implémenter un **serveur HTTP** en C++98, conforme à la norme **HTTP/1.1**.  
